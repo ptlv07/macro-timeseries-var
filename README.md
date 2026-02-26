@@ -8,7 +8,7 @@ pip install pandas numpy statsmodels matplotlib fredapi
 Run with synthetic data out of the box:
 python macro_timeseries_analysis.py
 
-To use real FRED data, set USE_LIVE_API = True and add your free 
+To use real FRED data, set USE_LIVE_API = True and add an  
 API key from fred.stlouisfed.org
 
 ## Output
