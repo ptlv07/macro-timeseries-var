@@ -12,4 +12,4 @@ To use real FRED data, set USE_LIVE_API = True and add your free
 API key from fred.stlouisfed.org
 
 ## Output
-![Analysis Results](var_analysis_results.png)
+![Analysis Results](Mts_mockdata_results.png)
